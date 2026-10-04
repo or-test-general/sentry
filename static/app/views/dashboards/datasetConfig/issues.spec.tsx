@@ -8,7 +8,7 @@ import {GroupStatus} from 'sentry/types/group';
 import {
   transformIssuesResponseToSeries,
   transformIssuesResponseToTable,
-} from 'sentry/views/dashboards/datasetConfig/issues';
+} from 'sentry/views/dashboards/datasetConfig/utils/issuesTransforms';
 
 describe('transformIssuesResponseToTable', () => {
   it('transforms issues response', () => {
