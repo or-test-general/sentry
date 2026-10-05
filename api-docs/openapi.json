@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "API Reference",
-    "description": "Sentry Public API [scan-test H2] [scan-test H6] [scan-test R1] [H2-rerun]",
+    "description": "Sentry Public API [scan-test H2] [scan-test H6] [scan-test R1] [H2-rerun] [H6-rerun]",
     "termsOfService": "http://sentry.io/terms/",
     "contact": {
       "email": "partners@sentry.io"
